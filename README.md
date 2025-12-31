@@ -12,7 +12,7 @@ ITechOS is an Operational System (OS) based on Linux Mint. It was created using 
 
 (You can add detailed installation instructions here. For example:)
 
-1.  Download the ITechOS ISO image.
+1.  [Download the ITechOS ISO image](URL_DO_SEU_DOWNLOAD_AQUI).
 2.  Create a bootable USB drive using a tool like Rufus or Etcher.
 3.  Boot your computer from the USB drive.
 4.  Follow the on-screen installation prompts.
